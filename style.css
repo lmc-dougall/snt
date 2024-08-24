@@ -1,0 +1,26 @@
+h1, h2, p 
+{
+  text-align: center;
+}
+#message
+{
+  text-align: left;
+}
+body
+{
+  background: rgb(243, 163, 250) fixed;
+}
+a
+{
+  color: rgb(120, 100, 250);
+}
+a:hover
+{
+  color: rgb(100, 200, 300);
+  font-weight: bold;
+}
+ul, ol
+{
+  text-align: left;
+}
+
